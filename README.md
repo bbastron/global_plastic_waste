@@ -14,4 +14,4 @@ This project was completed using:
 * Both India and the United States represent key areas where effective plastic waste management can have the biggest impact.
 
 
-Please visit my [Tableau data narrative](https://public.tableau.com/app/profile/beccab/viz/OurPlasticProblem_16257012653080/OurPlasticProblem) for a more in-depth, interactive analysis of plastic waste pollution.
+Please visit my [Tableau data narrative](https://public.tableau.com/app/profile/beccab/viz/OurPlasticProblem_16257012653080/OurPlasticProblem) for an interactive analysis of plastic waste pollution.
